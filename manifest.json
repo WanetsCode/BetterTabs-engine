@@ -1,7 +1,7 @@
 {
-  "name": "BetterTabs Engine",
+  "name": "BetterTabs",
   "description": "BetterTabs organizes tabs for you",
-  "version": "1.1",
+  "version": "1.2",
   "manifest_version": 3,
   "action": {
     "default_popup": "index.html",
