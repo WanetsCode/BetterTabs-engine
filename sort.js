@@ -1,3 +1,4 @@
+console.log("sort.js has been linked");
 // Function to group and sort tabs
 function sortTabsFunction() {
     return async function () {
